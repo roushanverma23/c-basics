@@ -1,3 +1,7 @@
 # c_basics
-<img src="https://giphy.com/embed/PiWfijeEeJEI0uB7j6">
+
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/c-PiWfijeEeJEI0uB7j6" width="100"/>
+</div>
+
 <p>Basic c programming</p>
